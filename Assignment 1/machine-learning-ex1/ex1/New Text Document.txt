@@ -1,0 +1,7 @@
+Compute Cost and gradient descent will be marked
+feature normalization, computing cost_multi, gradient 
+descent_multi, normal eq will not be marked
+
+Completed:
+WarmUp
+PlotData(for ex1)

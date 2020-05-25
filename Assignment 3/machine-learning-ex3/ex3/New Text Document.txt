@@ -1,0 +1,4 @@
+[Done] lrCostFunction.m - Logistic regression cost function
+[Done] oneVsAll.m - Train a one-vs-all multi-class classier
+[?] predictOneVsAll.m - Predict using a one-vs-all multi-class classier
+[?] predict.m - Neural network prediction function
